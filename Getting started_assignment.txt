@@ -1,0 +1,20 @@
+1.Why do we start learning a programming language with “Hello World!?
+
+Sol: Starting with "Hello, World!" provides beginners with a gentle introduction to programming, helping them grasp foundational concepts, set up their environment, and gain confidence as they embark on their coding journey.
+
+2.How is the use of comments and how do you write comments in HTML?
+
+Sol: Comments in programming serve the purpose of providing additional information or explanations within the code. Comments are ignored by the compiler or interpreter and are not executed when the code is run.
+We can write comments using the following syntax in HTML:
+<!-- This is a comment in HTML -->
+
+3.What are elements tags and attributes and the difference between them.
+
+Sol:An HTML element is the entire structure, consisting of a start tag, content, and end tag. Tags are the markup used to define elements, and attributes provide additional information about elements. Elements are the building blocks of an HTML document, and understanding the role of tags and attributes helps in creating well-structured and informative web pages.
+
+4.Briefly explain what HTML entities are.
+
+Sol:HTML entities are special codes used to represent reserved characters, characters with special meaning, or characters that might not be easily typed on a keyboard within an HTML document. These entities help ensure that such characters are properly displayed and interpreted by web browsers.
+For example:
+&lt; represents the less-than symbol <.
+&gt; represents the greater-than symbol >.
